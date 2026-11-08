@@ -1,0 +1,2 @@
+# LF everywhere, so archives built on any system hold identical file contents.
+* text=auto eol=lf
