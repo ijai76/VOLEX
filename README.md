@@ -86,4 +86,5 @@ scripts/build.sh     check and pack
 
 ## Credits and license
 
-The manifest structure and the use of the API (shadow map, vertex stage, reflection) were learned from Daybreak by hildlabs (MIT) and from the Horizon documentation. All shader code in this repository is original. MIT license, see `LICENSE`.
+Thanks for Horizon Android port from Vasysik
+All shader code in this repository is original. MIT license, see `LICENSE`.
