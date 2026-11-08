@@ -2,10 +2,6 @@
 
 A shader pack for Horizon Android, written in WGSL. VOLEXSTORM draws sun and moon shadows from a shadow map, makes water reflect and refract the world, sways leaves and grass in the vertex stage, and changes the water, the fog and the rain with the weather.
 
-## Requirements
-
-Horizon Android 0.7.8 or newer. The checker built from the v0.7.7 tag rejects this manifest at `distance_option`, so that version is not enough.
-
 ## What it does
 
 ### Shadows
